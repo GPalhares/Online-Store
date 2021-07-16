@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036238104819",
+    "project_id": "online-store-d9164",
+    "storage_bucket": "online-store-d9164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036238104819:android:bec4d8f417a44198fdaf86",
+        "android_client_info": {
+          "package_name": "br.com.palhares.loja.loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036238104819-vk697b3nvtiogqk11eadh6gmesd658u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUQSQwITW4PbTOTADqoBWup9fJD9g9sWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036238104819-vk697b3nvtiogqk11eadh6gmesd658u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
